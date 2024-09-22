@@ -1,0 +1,224 @@
+Section,Age,Hot_Or_Cold,Ancestry,Technical_Talent,Learning_Process,Learning_Approach,Early_Adapter,Test_Group,Knowledge_Recall,Procedural_Knowledge,Application_and_Problem_Solving,Analysis_and_Evaluation,Total
+Excel,20,3,I prefer not to say,5,Auditory,Observation and Imitation,Yes,Reviewing with a friend,0.25,0.333333333,0.5,0.666666667,1.75
+Excel,18,3,Asian,4,Visual,Observation and Imitation,Yes,Reviewing with AI,0.833333333,0,0.5,0.666666667,2
+Excel,21,3,Asian,3,Visual,Experiential learning,Yes,Reviewing with the internet,0.833333333,0,0.5,1,2.333333333
+Excel,23,2,Hispanic or Latino,3,Visual,Experiential learning,No,Contemplating,1,0,0,0.666666667,1.666666667
+Excel,20,2,Asian,3,Visual,Observation and Imitation,No,Reviewing with a friend,0.75,0.333333333,1,0.666666667,2.75
+Excel,21,5,Western European,4,Visual,Collaborative learning,Yes,Reviewing with the internet,0.333333333,0.666666667,0.5,0.666666667,2.166666667
+Excel,19,3,Hispanic or Latino,2,Visual,Observation and Imitation,Yes,Contemplating,0.833333333,0.333333333,0.5,1,2.666666667
+Excel,21,3,Asian,4,Visual,Observation and Imitation,Yes,Free,0.5,0.666666667,0.5,1,2.666666667
+Excel,20,3,Asian,3,Visual,Collaborative learning,Yes,Contemplating,0.75,0.333333333,0,1,2.083333333
+Excel,20,4,Western European,4,Visual,Collaborative learning,Yes,Reviewing with AI,0.666666667,0,0.5,0.666666667,1.833333333
+Excel,20,3,Asian,3,Visual,Observation and Imitation,Yes,Reviewing with the internet,0.5,0.333333333,0.5,0.333333333,1.666666667
+Excel,20,3,Asian,4,Kinesthetic (physical activity),Observation and Imitation,No,Reviewing with AI,0.833333333,0.333333333,0.5,1,2.666666667
+Excel,22,3,Hispanic or Latino,4,Visual,Observation and Imitation,Yes,Reviewing with a friend,0.333333333,0,0.5,1,1.833333333
+Excel,20,3,Western European,3,Visual,Experiential learning,Yes,Reviewing with the internet,0.5,0,1,0.666666667,2.166666667
+Excel,22,3,Asian,4,Kinesthetic (physical activity),Experiential learning,Yes,Free,0.416666667,0,0,0.666666667,1.083333333
+Excel,32,3,Hispanic or Latino,3,Visual,Observation and Imitation,Yes,Reviewing with a friend,0.75,0,0.5,1,2.25
+Excel,19,3,Asian,4,Visual,Experiential learning,No,Contemplating,0.416666667,0.333333333,0,1,1.75
+Excel,24,3,Western European,3,Kinesthetic (physical activity),Observation and Imitation,No,Reviewing with AI,0.666666667,0.333333333,0.5,0.666666667,2.166666667
+Excel,23,3,Asian,2,Visual,Observation and Imitation,No,Reviewing with AI,0.833333333,0,0.5,1,2.333333333
+Excel,20,3,Hispanic or Latino,5,Visual,Observation and Imitation,Yes,Reviewing with a friend,0.833333333,0,0.5,1,2.333333333
+Excel,20,3,Asian,3,Visual,Observation and Imitation,Yes,Reviewing with the internet,0.833333333,0.333333333,1,0.333333333,2.5
+Excel,20,3,Asian,2,Visual,Observation and Imitation,No,Reviewing with the internet,0.416666667,0.333333333,0.5,0.666666667,1.916666667
+Excel,20,3,Asian,3,Visual,Observation and Imitation,Yes,Reviewing with the internet,0.333333333,0,1,1,2.333333333
+Excel,20,3,Hispanic or Latino,3,Visual,Experiential learning,No,Contemplating,0.833333333,0,0.5,1,2.333333333
+Excel,22,3,Asian,3,Visual,Observation and Imitation,No,Reviewing with the internet,0.833333333,1,0,1,2.833333333
+Excel,22,3,Asian,3,Visual,Observation and Imitation,No,Reviewing with the internet,0.833333333,0,0.5,0.666666667,2
+Excel,27,4,Asian,3,Visual,Collaborative learning,Yes,Contemplating,0.333333333,0.333333333,0,0.666666667,1.333333333
+Excel,19,3,I prefer not to say,3,Visual,Observation and Imitation,No,Reviewing with the internet,0.5,0,0.5,0.666666667,1.666666667
+Excel,22,3,Middle Eastern or North African,3,Visual,Collaborative learning,Yes,Reviewing with AI,0.166666667,0,0,0.333333333,0.5
+Excel,24,3,Asian,3,Visual,Observation and Imitation,No,Reviewing with AI,0.333333333,0.333333333,0.5,0.666666667,1.833333333
+Excel,20,3,Black or African,3,Visual,Observation and Imitation,Yes,Contemplating,0.333333333,0.333333333,0.5,1,2.166666667
+Excel,20,4,Asian,2,Visual,Observation and Imitation,Yes,Reviewing with AI,0.666666667,0,0,0.666666667,1.333333333
+Excel,21,3,Asian,3,Reading/Writing,Observation and Imitation,Yes,Contemplating,0.25,0,0.5,0.666666667,1.416666667
+Excel,18,4,Asian,3,Visual,Observation and Imitation,Yes,Contemplating,0.666666667,0.333333333,0.5,0.666666667,2.166666667
+Excel,21,3,Hispanic or Latino,3,Visual,Collaborative learning,No,Free,0.333333333,0.333333333,0.5,0.666666667,1.833333333
+Excel,21,3,Hispanic or Latino,3,Visual,Observation and Imitation,Yes,Free,0.666666667,0.333333333,0,0.666666667,1.666666667
+Excel,20,5,Asian,1,Reading/Writing,Experiential learning,Yes,Reviewing with the internet,0.75,0,1,0,1.75
+Excel,19,3,Asian,2,Auditory,Observation and Imitation,No,Reviewing with AI,0.583333333,0,0,0.333333333,0.916666667
+Excel,20,3,Asian,4,Auditory,Observation and Imitation,Yes,Reviewing with AI,0.75,0,0.5,1,2.25
+Excel,22,4,Asian,3,Visual,Experiential learning,Yes,Reviewing with a friend,0.5,0,0,1,1.5
+Excel,21,3,Hispanic or Latino,3,Visual,Observation and Imitation,No,Contemplating,0.833333333,0,0.5,0.666666667,2
+Excel,20,3,Western European,,Kinesthetic (physical activity),Observation and Imitation,Yes,Reviewing with the internet,0.75,0.333333333,1,0.666666667,2.75
+Excel,20,3,Asian,3,Kinesthetic (physical activity),Experiential learning,Yes,Reviewing with AI,0.666666667,0,1,0.333333333,2
+Excel,23,3,Hispanic or Latino,3,Kinesthetic (physical activity),Observation and Imitation,Yes,Contemplating,1,0,1,0.666666667,2.666666667
+Excel,20,2,Slavic,1,Visual,Observation and Imitation,Yes,Reviewing with a friend,0.75,0,0.5,0.333333333,1.583333333
+Excel,25,4,Asian,2,Visual,Observation and Imitation,Yes,Contemplating,0.75,0,0.5,0.666666667,1.916666667
+Excel,22,2,Asian,2,Kinesthetic (physical activity),Collaborative learning,No,Reviewing with AI,0.666666667,0,0.5,0.666666667,1.833333333
+Excel,35,3,Hispanic or Latino,3,Reading/Writing,Observation and Imitation,Yes,Reviewing with the internet,1,0,0,0.666666667,1.666666667
+Excel,25,5,Asian,4,Kinesthetic (physical activity),Observation and Imitation,Yes,Reviewing with AI,0.583333333,0,0.5,1,2.083333333
+Excel,21,4,Asian,3,Auditory,Observation and Imitation,No,Reviewing with the internet,0.833333333,0.333333333,1,0.666666667,2.833333333
+Excel,18,3,Asian,4,Reading/Writing,Observation and Imitation,Yes,Contemplating,0.75,0.333333333,0.5,0.666666667,2.25
+Excel,20,3,Asian,3,Kinesthetic (physical activity),Collaborative learning,No,Contemplating,0.666666667,0,0.5,1,2.166666667
+Excel,20,3,Hispanic or Latino,4,Visual,Observation and Imitation,Yes,Reviewing with AI,0.666666667,0.666666667,0.5,0.666666667,2.5
+Excel,20,3,Asian,3,Kinesthetic (physical activity),Experiential learning,Yes,Contemplating,0.75,0,1,1,2.75
+Excel,21,3,Asian,3,Auditory,Observation and Imitation,Yes,Reviewing with AI,0.416666667,0.333333333,1,0.666666667,2.416666667
+Excel,20,4,Asian,3,Visual,Experiential learning,Yes,Reviewing with the internet,0.5,0.666666667,1,1,3.166666667
+Excel,20,3,Hispanic or Latino,3,Visual,Experiential learning,No,Reviewing with the internet,0.5,0,1,0.666666667,2.166666667
+Excel,21,4,Hispanic or Latino,4,Visual,Observation and Imitation,Yes,Reviewing with AI,0.416666667,0.333333333,0.5,1,2.25
+Excel,22,3,Asian,3,Visual,Observation and Imitation,No,Reviewing with the internet,0.75,0,0,0.333333333,1.083333333
+Excel,20,3,Hispanic or Latino,3,Visual,Observation and Imitation,Yes,Free,0.75,0,1,0.666666667,2.416666667
+Excel,19,3,I prefer not to say,3,Visual,Observation and Imitation,No,Reviewing with the internet,0.5,0,0.5,1,2
+Excel,19,4,Slavic,2,Kinesthetic (physical activity),Observation and Imitation,Yes,Reviewing with a friend,0.416666667,0,0.5,1,1.916666667
+Excel,27,4,Asian,2,Visual,Collaborative learning,No,Contemplating,0.75,0,1,1,2.75
+Excel,20,4,Asian,2,Kinesthetic (physical activity),Collaborative learning,No,Reviewing with a friend,0.583333333,0,1,0.666666667,2.25
+Excel,21,3,Asian,3,Visual,Observation and Imitation,No,Reviewing with a friend,0.333333333,0,0.5,0.666666667,1.5
+Excel,19,3,Asian,2,Visual,Observation and Imitation,No,Reviewing with AI,0.666666667,0,0.5,0.666666667,1.833333333
+Excel,21,3,Hispanic or Latino,3,Visual,Experiential learning,Yes,Free,0.416666667,0,1,0.666666667,2.083333333
+Excel,40,4,Hispanic or Latino,3,Visual,Observation and Imitation,Yes,Reviewing with a friend,0.833333333,0,0,0.666666667,1.5
+Excel,19,4,Slavic,2,Auditory,Experiential learning,Yes,Reviewing with AI,0.75,0,0.5,0.666666667,1.916666667
+Excel,19,3,Asian,4,Visual,Observation and Imitation,Yes,Reviewing with AI,0.333333333,0,0,0.666666667,1
+Excel,18,3,Asian,3,Visual,Observation and Imitation,Yes,Reviewing with a friend,0.75,0,1,0.666666667,2.416666667
+Excel,20,4,Hispanic or Latino,2,Visual,Observation and Imitation,Yes,Contemplating,0.75,0,0.5,0.666666667,1.916666667
+Excel,19,4,Asian,2,Kinesthetic (physical activity),Experiential learning,No,Reviewing with AI,0.833333333,0,1,0.666666667,2.5
+Excel,28,3,Asian,3,Visual,Observation and Imitation,No,Contemplating,0.833333333,0.333333333,0.5,1,2.666666667
+Excel,19,4,Hispanic or Latino,3,Reading/Writing,Observation and Imitation,Yes,Reviewing with AI,0.75,0,0.5,1,2.25
+Excel,19,3,Asian,2,Visual,Experiential learning,No,Reviewing with AI,0.666666667,0,1,0.666666667,2.333333333
+Excel,19,3,Black or African,4,Visual,Observation and Imitation,Yes,Reviewing with AI,0.75,0,0.5,1,2.25
+Excel,19,4,Hispanic or Latino,4,Visual,Observation and Imitation,Yes,Contemplating,0.75,0.333333333,0.5,0.666666667,2.25
+Excel,18,3,Asian,3,Visual,Observation and Imitation,Yes,Reviewing with a friend,0.416666667,0.333333333,1,0.666666667,2.416666667
+Excel,20,2,Western European,3,Visual,Observation and Imitation,Yes,Contemplating,0.75,0,1,0.666666667,2.416666667
+Excel,21,3,Western European,5,Visual,Experiential learning,Yes,Reviewing with AI,0.75,0,0.5,1,2.25
+Excel,20,3,Western European,4,Visual,Observation and Imitation,Yes,Reviewing with the internet,0.333333333,1,0.5,1,2.833333333
+Excel,21,3,Western European,3,Kinesthetic (physical activity),Experiential learning,Yes,Reviewing with AI,0.75,1,0.5,0.666666667,2.916666667
+Excel,20,3,Western European,4,Auditory,Experiential learning,Yes,Reviewing with AI,0.833333333,1,0.5,0.666666667,3
+Excel,21,4,Western European,3,Reading/Writing,Observation and Imitation,Yes,Reviewing with the internet,0.75,0,0.5,1,2.25
+Excel,20,4,Western European,3,Auditory,Observation and Imitation,No,Reviewing with the internet,0.583333333,0,0.5,1,2.083333333
+Excel,24,3,I prefer not to say,3,Visual,Experiential learning,Yes,Reviewing with the internet,1,1,0.5,1,3.5
+Excel,21,3,Western European,3,Kinesthetic (physical activity),Collaborative learning,Yes,Reviewing with a friend,0.833333333,0.333333333,0.5,1,2.666666667
+Web_Programming,21,4,I prefer not to say,4,Visual,Observation and Imitation,Yes,Reviewing with a friend,1,1,0.666666667,0.666666667,3.333333333
+Web_Programming,20,4,Asian,3,Visual,Experiential learning,Yes,Reviewing with a friend,1,0,1,0.333333333,2.333333333
+Web_Programming,22,4,Hispanic or Latino,4,Kinesthetic (physical activity),Collaborative learning,Yes,Reviewing with AI,1,0.5,1,0.666666667,3.166666667
+Web_Programming,21,3,Asian,2,Visual,Collaborative learning,Yes,Reviewing with the internet,0.5,0.5,0.666666667,0.333333333,2
+Web_Programming,25,4,Hispanic or Latino,3,Kinesthetic (physical activity),Collaborative learning,Yes,Reviewing with a friend,1,1,0.333333333,0,2.333333333
+Web_Programming,22,2,Black or African,5,Visual,Observation and Imitation,Yes,Contemplating,1,1,0.666666667,0.333333333,3
+Web_Programming,21,5,Slavic,1,Kinesthetic (physical activity),Experiential learning,Yes,Contemplating,1,0.5,1,0.333333333,2.833333333
+Web_Programming,20,5,I prefer not to say,1,Visual,Collaborative learning,No,Contemplating,0.5,1,0.666666667,0.333333333,2.5
+Web_Programming,20,3,Asian,2,Kinesthetic (physical activity),Experiential learning,No,Reviewing with AI,1,0.5,0.666666667,0.333333333,2.5
+Web_Programming,20,4,Asian,3,Visual,Collaborative learning,Yes,Reviewing with a friend,1,0,0.666666667,0.666666667,2.333333333
+Web_Programming,24,4,Hispanic or Latino,3,Visual,Observation and Imitation,Yes,Reviewing with a friend,1,1,0.666666667,0.666666667,3.333333333
+Web_Programming,21,3,Asian,4,Reading/Writing,Experiential learning,Yes,Reviewing with the internet,0.5,0.5,0.333333333,0.666666667,2
+Web_Programming,20,4,Asian,3,Visual,Observation and Imitation,Yes,Reviewing with AI,1,0,1,0.333333333,2.333333333
+Web_Programming,24,4,Asian,3,Reading/Writing,Observation and Imitation,Yes,Reviewing with the internet,1,0.5,0.333333333,0.666666667,2.5
+Web_Programming,27,3,Asian,2,Reading/Writing,Experiential learning,No,Reviewing with a friend,0.5,1,0.666666667,0,2.166666667
+Web_Programming,23,4,Asian,3,Visual,Experiential learning,Yes,Reviewing with a friend,0.5,0,0.666666667,0,1.166666667
+Web_Programming,21,3,Middle Eastern or North African,3,Kinesthetic (physical activity),Experiential learning,Yes,Reviewing with the internet,1,1,0.666666667,0.333333333,3
+Web_Programming,20,4,Asian,3,Visual,Experiential learning,Yes,Reviewing with the internet,0.5,0.5,0.666666667,0.666666667,2.333333333
+Web_Programming,21,2,I prefer not to say,4,Kinesthetic (physical activity),Experiential learning,Yes,Reviewing with AI,1,0.5,1,0,2.5
+Web_Programming,20,3,Asian,3,Visual,Collaborative learning,Yes,Reviewing with the internet,1,0.5,1,0.333333333,2.833333333
+Web_Programming,21,3,Asian,4,Kinesthetic (physical activity),Observation and Imitation,Yes,Reviewing with AI,1,1,0.666666667,0.666666667,3.333333333
+Web_Programming,24,3,Middle Eastern or North African,3,Visual,Experiential learning,Yes,Contemplating,0.5,1,0.666666667,0.333333333,2.5
+Web_Programming,21,5,Asian,4,Reading/Writing,Experiential learning,Yes,Reviewing with a friend,1,0.5,1,0,2.5
+Web_Programming,20,2,Asian,3,Visual,Observation and Imitation,Yes,Contemplating,0.5,0.5,1,0.333333333,2.333333333
+Web_Programming,20,3,Western European,3,Visual,Observation and Imitation,Yes,Reviewing with AI,1,1,0.666666667,0,2.666666667
+Web_Programming,21,3,Western European,3,Reading/Writing,Observation and Imitation,No,Reviewing with AI,1,1,1,0.333333333,3.333333333
+Web_Programming,20,3,Asian,3,Visual,Experiential learning,No,Reviewing with the internet,1,1,0.666666667,0.333333333,3
+Web_Programming,25,3,Middle Eastern or North African,3,Visual,Experiential learning,Yes,Reviewing with a friend,1,0,0.666666667,0,1.666666667
+Web_Programming,21,3,Hispanic or Latino,3,Visual,Observation and Imitation,No,Contemplating,0.5,0.5,0.666666667,0.666666667,2.333333333
+Web_Programming,21,3,Western European,4,Visual,Observation and Imitation,Yes,Reviewing with AI,1,1,0.666666667,0.666666667,3.333333333
+Web_Programming,23,3,Asian,5,Kinesthetic (physical activity),Observation and Imitation,Yes,Reviewing with the internet,0.5,1,0.666666667,0.666666667,2.833333333
+Web_Programming,,3,Asian,4,Kinesthetic (physical activity),Experiential learning,Yes,Reviewing with AI,1,0.5,1,0,2.5
+Web_Programming,25,3,Asian,3,Visual,Observation and Imitation,Yes,Reviewing with the internet,1,0.5,0.333333333,0.666666667,2.5
+Web_Programming,21,3,Asian,3,Visual,Collaborative learning,No,Contemplating,1,0.5,0.666666667,0.333333333,2.5
+Web_Programming,33,3,Hispanic or Latino,3,Reading/Writing,Observation and Imitation,Yes,Contemplating,1,1,0.666666667,0.666666667,3.333333333
+Web_Programming,37,3,Asian,3,Visual,Observation and Imitation,No,Contemplating,0,0.5,0.666666667,0.666666667,1.833333333
+Web_Programming,20,4,Asian,3,Visual,Collaborative learning,No,Reviewing with the internet,1,1,0.666666667,0.333333333,3
+Web_Programming,21,3,Asian,3,Visual,Observation and Imitation,No,Reviewing with the internet,1,0,1,0.333333333,2.333333333
+Web_Programming,20,3,Asian,2,Kinesthetic (physical activity),Collaborative learning,No,Reviewing with AI,1,1,0.666666667,0.333333333,3
+Web_Programming,25,3,Asian,2,Kinesthetic (physical activity),Observation and Imitation,Yes,Reviewing with a friend,1,0.5,1,0,2.5
+Web_Programming,,3,Black or African,4,Visual,Experiential learning,No,Reviewing with the internet,0.5,0,0.666666667,0.333333333,1.5
+Web_Programming,21,3,Slavic,3,Visual,Collaborative learning,Yes,Reviewing with the internet,1,0.5,1,0.666666667,3.166666667
+Web_Programming,22,4,Asian,3,Visual,Observation and Imitation,No,Contemplating,1,0.5,1,0.666666667,3.166666667
+Web_Programming,25,3,Asian,5,Visual,Observation and Imitation,Yes,Reviewing with AI,1,0,1,0,2
+Web_Programming,23,3,Asian,3,Kinesthetic (physical activity),Experiential learning,Yes,Contemplating,1,0.5,0,0,1.5
+Web_Programming,21,3,Asian,5,Visual,Experiential learning,Yes,Contemplating,1,0.5,0.666666667,0.333333333,2.5
+Web_Programming,32,5,Hispanic or Latino,3,Kinesthetic (physical activity),Observation and Imitation,Yes,Reviewing with the internet,1,0.5,0.666666667,0.666666667,2.833333333
+Web_Programming,26,3,Asian,3,Visual,Collaborative learning,Yes,Reviewing with a friend,1,0.5,0.333333333,0.333333333,2.166666667
+Web_Programming,21,4,Hispanic or Latino,4,Visual,Observation and Imitation,No,Contemplating,0.5,0.5,1,0,2
+Web_Programming,20,3,Asian,5,Visual,Experiential learning,Yes,Reviewing with AI,1,1,0.666666667,0,2.666666667
+Web_Programming,22,3,Hispanic or Latino,3,Visual,Experiential learning,Yes,Reviewing with AI,1,0.5,1,0.333333333,2.833333333
+Web_Programming,21,5,Asian,2,Visual,Collaborative learning,Yes,Reviewing with a friend,1,0.5,0.333333333,0.666666667,2.5
+Web_Programming,23,4,Hispanic or Latino,4,Reading/Writing,Observation and Imitation,Yes,Reviewing with AI,1,1,0.666666667,0.333333333,3
+Web_Programming,34,3,Asian,3,Visual,Collaborative learning,Yes,Free,1,0.5,0.666666667,0.333333333,2.5
+Data_Science,20,1,Black or African,3,Kinesthetic (physical activity),Experiential learning,Yes,Reviewing with the internet,0.666666667,0.666666667,1,1,3.333333333
+Data_Science,22,3,Asian,3,Visual,Collaborative learning,Yes,Reviewing with the internet,1,1,0.666666667,1,3.666666667
+Data_Science,21,3,Hispanic or Latino,3,Reading/Writing,Experiential learning,Yes,Free,0.333333333,0,0.666666667,0.666666667,1.666666667
+Data_Science,22,3,Black or African,3,Visual,Observation and Imitation,Yes,Free,1,0,1,1,3
+Data_Science,20,2,Middle Eastern or North African,4,Auditory,Experiential learning,Yes,Reviewing with a friend,1,1,1,1,4
+Data_Science,22,3,Asian,3,Visual,Collaborative learning,Yes,Reviewing with the internet,0.333333333,0,1,0,1.333333333
+Data_Science,22,3,Black or African,4,Visual,Observation and Imitation,Yes,Free,1,0,1,1,3
+Data_Science,33,3,Hispanic or Latino,3,Visual,Observation and Imitation,Yes,Reviewing with a friend,0.666666667,0.333333333,1,1,3
+Data_Science,24,5,Middle Eastern or North African,3,Visual,Observation and Imitation,No,Reviewing with the internet,0.333333333,0,0.666666667,0.333333333,1.333333333
+Data_Science,20,3,Asian,3,Visual,Experiential learning,Yes,Reviewing with a friend,1,1,1,1,4
+Data_Science,19,2,Hispanic or Latino,4,Visual,Experiential learning,Yes,Free,1,0.333333333,1,0.666666667,3
+Data_Science,21,2,Western European,3,Visual,Experiential learning,Yes,Reviewing with a friend,0.333333333,0,0.666666667,0.666666667,1.666666667
+Data_Science,19,2,Hispanic or Latino,4,Visual,Experiential learning,Yes,Free,0.666666667,0.333333333,1,0.666666667,2.666666667
+Data_Science,24,2,Asian,3,Auditory,Observation and Imitation,Yes,Reviewing with a friend,0.666666667,0,0.666666667,0,1.333333333
+Data_Science,24,2,Asian,3,Kinesthetic (physical activity),Experiential learning,Yes,Reviewing with a friend,1,1,1,1,4
+Data_Science,22,2,Asian,3,Visual,Observation and Imitation,Yes,Reviewing with a friend,0.333333333,0.666666667,1,0.666666667,2.666666667
+Data_Science,,3,Middle Eastern or North African,4,Visual,Experiential learning,Yes,Reviewing with AI,0.333333333,0,1,0.666666667,2
+Data_Science,24,3,Asian,3,Kinesthetic (physical activity),Experiential learning,Yes,Reviewing with the internet,1,0,0.666666667,0.333333333,2
+Data_Science,23,3,Western European,3,Visual,Experiential learning,Yes,Reviewing with AI,0.333333333,1,0.666666667,0.666666667,2.666666667
+Data_Science,24,3,Hispanic or Latino,5,Visual,Observation and Imitation,Yes,Free,0.333333333,0.333333333,0.666666667,0.333333333,1.666666667
+Data_Science,21,3,Asian,3,Visual,Experiential learning,Yes,Free,0.333333333,0,0.666666667,0.333333333,1.333333333
+Data_Science,20,3,Asian,3,Kinesthetic (physical activity),Experiential learning,No,Reviewing with the internet,0.666666667,0.333333333,1,1,3
+Data_Science,23,2,Asian,3,Kinesthetic (physical activity),Observation and Imitation,Yes,Reviewing with the internet,0.666666667,0.666666667,1,1,3.333333333
+Data_Science,22,1,Western European,3,Visual,Experiential learning,Yes,Reviewing with AI,0.666666667,1,1,0.666666667,3.333333333
+Data_Science,21,3,Slavic,4,Reading/Writing,Experiential learning,Yes,Reviewing with AI,0.333333333,1,0.666666667,0.666666667,2.666666667
+Data_Science,21,3,Slavic,4,Visual,Collaborative learning,Yes,Reviewing with AI,0.333333333,0,0.666666667,0.666666667,1.666666667
+Data_Science,26,2,Western European,4,Visual,Observation and Imitation,No,Free,0.666666667,0.666666667,1,0.666666667,3
+Quantum_Computing,20,3,Asian,3,Visual,Observation and Imitation,Yes,Free,1,0.333333333,0.666666667,0,2
+Quantum_Computing,20,3,Asian,4,Visual,Observation and Imitation,Yes,Free,0.666666667,1,1,1,3.666666667
+Quantum_Computing,22,3,Black or African,4,Visual,Observation and Imitation,Yes,Free,0.666666667,1,1,0,2.666666667
+Quantum_Computing,21,3,Hispanic or Latino,3,Reading/Writing,Observation and Imitation,Yes,Free,1,0.333333333,1,0.666666667,3
+Quantum_Computing,22,1,Asian,5,Visual,Experiential learning,Yes,Reviewing with the internet,1,1,1,0.666666667,3.666666667
+Quantum_Computing,21,3,Hispanic or Latino,4,Visual,Experiential learning,Yes,Reviewing with the internet,1,0.666666667,0.666666667,0,2.333333333
+Quantum_Computing,20,3,Asian,3,Kinesthetic (physical activity),Observation and Imitation,Yes,Free,0.666666667,0.333333333,0.333333333,0,1.333333333
+Quantum_Computing,20,2,Asian,3,Kinesthetic (physical activity),Experiential learning,Yes,Reviewing with AI,0.666666667,0.333333333,1,1,3
+Quantum_Computing,21,3,Asian,5,Visual,Collaborative learning,Yes,Contemplating,1,1,1,1,4
+Quantum_Computing,26,3,Hispanic or Latino,4,Visual,Experiential learning,Yes,Reviewing with a friend,0.666666667,1,1,0,2.666666667
+Quantum_Computing,22,3,Asian,3,Kinesthetic (physical activity),Collaborative learning,Yes,Reviewing with a friend,0.666666667,0.666666667,1,0.333333333,2.666666667
+Quantum_Computing,20,3,Asian,1,Visual,Observation and Imitation,Yes,Reviewing with AI,1,1,1,0.666666667,3.666666667
+Quantum_Computing,32,5,I prefer not to say,3,Reading/Writing,Observation and Imitation,No,Reviewing with the internet,0.666666667,0.333333333,1,0,2
+Quantum_Computing,21,3,Asian,3,Kinesthetic (physical activity),Experiential learning,Yes,Contemplating,0.666666667,1,1,0.666666667,3.333333333
+Quantum_Computing,25,3,Asian,5,Kinesthetic (physical activity),Experiential learning,Yes,Free,1,0.333333333,0.666666667,0.333333333,2.333333333
+Quantum_Computing,23,3,Hispanic or Latino,3,Visual,Observation and Imitation,Yes,Reviewing with AI,0.666666667,0,1,0.333333333,2
+Quantum_Computing,35,2,Western European,5,Kinesthetic (physical activity),Observation and Imitation,Yes,Reviewing with AI,0.666666667,1,1,0.333333333,3
+Quantum_Computing,33,2,Hispanic or Latino,3,Visual,Observation and Imitation,Yes,Contemplating,0.333333333,0.666666667,0.666666667,0.333333333,2
+Quantum_Computing,24,2,Western European,5,Visual,Collaborative learning,Yes,Free,1,0.666666667,0.333333333,0.666666667,2.666666667
+Quantum_Computing,22,4,Middle Eastern or North African,3,Visual,Experiential learning,No,Reviewing with a friend,0.666666667,0,1,1,2.666666667
+Quantum_Computing,19,3,Western European,3,Reading/Writing,Observation and Imitation,No,Reviewing with the internet,0.666666667,1,1,0.666666667,3.333333333
+Quantum_Computing,22,3,Asian,3,Kinesthetic (physical activity),Experiential learning,No,Reviewing with the internet,0.666666667,1,1,0,2.666666667
+Quantum_Computing,27,2,Middle Eastern or North African,4,Visual,Experiential learning,Yes,Reviewing with AI,0.666666667,1,0.333333333,0.666666667,2.666666667
+Quantum_Computing,24,3,Western European,3,Visual,Observation and Imitation,Yes,Reviewing with AI,0.666666667,1,1,0.666666667,3.333333333
+Word,20,3,Western European,4,Visual,Experiential learning,Yes,Reviewing with the internet,1,1,1,0.5,3.5
+Word,21,2,Western European,1,Kinesthetic (physical activity),Observation and Imitation,No,Reviewing with AI,0,1,0.5,1,2.5
+Word,19,3,Middle Eastern or North African,4,Visual,Experiential learning,Yes,Reviewing with a friend,0.5,0.5,0.5,1,2.5
+Word,19,3,Slavic,2,Visual,Observation and Imitation,Yes,Reviewing with a friend,0,0.5,0.5,0,1
+Word,19,3,Western European,3,Visual,Collaborative learning,Yes,Reviewing with AI,0.5,1,1,0.5,3
+Word,22,1,Western European,3,Reading/Writing,Observation and Imitation,No,Reviewing with the internet,0.5,0.5,0,0.5,1.5
+Word,21,3,Western European,2,Reading/Writing,Observation and Imitation,No,Reviewing with AI,0.5,1,0.5,0.5,2.5
+Word,22,3,Western European,4,Visual,Observation and Imitation,Yes,Reviewing with the internet,1,0.5,0,1,2.5
+Word,21,3,Western European,3,Kinesthetic (physical activity),Experiential learning,No,Reviewing with AI,0.5,0.5,0.5,1,2.5
+Word,20,4,Hispanic or Latino,3,Reading/Writing,Experiential learning,Yes,Reviewing with AI,1,0.5,0.5,1,3
+Word,18,3,Middle Eastern or North African,5,Visual,Experiential learning,Yes,Reviewing with a friend,0.5,0.5,0.5,0.5,2
+Word,20,3,Western European,3,Visual,Experiential learning,Yes,Reviewing with AI,0.5,0.5,0.5,0.5,2
+Word,19,3,Slavic,2,Visual,Observation and Imitation,No,Reviewing with a friend,0.5,1,0.5,0.5,2.5
+Word,20,4,Western European,3,Visual,Observation and Imitation,Yes,Reviewing with a friend,0.5,0.5,0,0.5,1.5
+Word,22,3,Western European,2,Kinesthetic (physical activity),Observation and Imitation,No,Reviewing with the internet,0.5,0.5,0,0,1
+Word,20,3,Western European,3,Visual,Observation and Imitation,Yes,Reviewing with a friend,0.5,1,1,1,3.5
+Word,20,3,Middle Eastern or North African,2,Kinesthetic (physical activity),Observation and Imitation,No,Reviewing with AI,0.5,1,1,0.5,3
+Word,19,4,Western European,4,,Experiential learning,Yes,Reviewing with AI,0.5,1,1,1,3.5
+Word,19,2,Hispanic or Latino,3,Kinesthetic (physical activity),Observation and Imitation,Yes,Reviewing with AI,0.5,1,1,1,3.5
+Word,20,5,Western European,3,Visual,Collaborative learning,No,Free,0.5,0.5,0,1,2
+Word,21,4,Western European,5,Auditory,Observation and Imitation,Yes,Reviewing with a friend,0.5,1,1,1,3.5
+Word,21,4,Slavic,2,Visual,Collaborative learning,Yes,Reviewing with AI,1,0.5,0.5,0,2
+Word,21,3,Slavic,2,Kinesthetic (physical activity),Experiential learning,No,Reviewing with AI,0.5,1,1,1,3.5
+Word,22,4,I prefer not to say,1,Visual,Observation and Imitation,No,Reviewing with AI,0.5,1,1,1,3.5
+Word,20,1,I prefer not to say,2,Kinesthetic (physical activity),Experiential learning,No,Free,0.5,0.5,0.5,1,2.5
+Word,22,3,Western European,2,Kinesthetic (physical activity),Collaborative learning,No,Reviewing with AI,0.5,0.5,0,0,1
+Word,23,3,Slavic,1,Reading/Writing,Observation and Imitation,No,Free,0.5,1,1,0.5,3
+Word,20,4,Middle Eastern or North African,3,Visual,Observation and Imitation,Yes,Reviewing with the internet,1,1,1,1,4
+Word,22,3,Western European,2,Visual,Observation and Imitation,Yes,Free,1,1,0.5,1,3.5
+Word,21,4,Western European,3,Kinesthetic (physical activity),Observation and Imitation,Yes,Reviewing with the internet,1,0.5,0.5,1,3
